@@ -20,12 +20,12 @@ Descrição
 ## Exercício 2: Problema Prático - Otimização de Parâmetros de um Modelo de Machine Learning
 
 Descrição
-- Neste exercício, os alunos devem otimizar os hiperparâmetros de um modelo de regressão linear, como a regularização (parâmetro α) e a taxa de aprendizado. O objetivo é minimizar o erro quadrático médio (MSE) de um conjunto de dados de treinamento.
+- Neste exercício, os alunos devem otimizar os hiperparâmetros de um modelo de regressão linear, como a regularização (parâmetro α (alpha)) e a taxa de aprendizado. O objetivo é minimizar o erro quadrático médio (MSE) de um conjunto de dados de treinamento.
 
 Objetivo
 - Utilizar o algoritmo de Estratégias Evolutivas para otimizar os hiperparâmetros de um modelo de machine learning.
 
 ## Documentação
 - Objetivo do exercício: Os alunos devem otimizar os hiperparâmetros de um modelo de regressão linear para minimizar o erro quadrático médio em um conjunto de dados sintéticos.
-- Espaço de busca: O espaço de busca foi definido com limites para a regularização α e a taxa de aprendizado, permitindo que o algoritmo explore combinações desses parâmetros.
+- Espaço de busca: O espaço de busca foi definido com limites para a regularização α (alpha) e a taxa de aprendizado, permitindo que o algoritmo explore combinações desses parâmetros.
 - Resultado esperado: O algoritmo deve encontrar uma combinação de parâmetros que minimize o MSE no conjunto de treinamento, resultando em um modelo de regressão linear mais eficiente.
