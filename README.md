@@ -4,7 +4,6 @@
 
 Descrição
 - A função de Rosenbrock, frequentemente chamada de "função do banana", é um problema de otimização bem conhecido na literatura. A função é definida como:
--
 - ![Captura de Tela 2024-10-08 às 22 07 03](https://github.com/user-attachments/assets/c5615cb6-577a-4412-945a-538bdbe3a8cc)
 
 Objetivo
